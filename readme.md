@@ -19,7 +19,7 @@ You will need to have [nodeJs](https://nodejs.org/en/) (which comes with npm) or
 # Backend server:
 
 - Go to the folder `/server-chat`
-- Run `npm install` or `yarn add`
+- Run `npm install` or `yarn`
 - Run `node server.js`
 
 it will install all the dependencies and start the app at the port 8000
@@ -27,7 +27,7 @@ it will install all the dependencies and start the app at the port 8000
 ## To start the cliend side:
 
 - Go to the folder `/client-chat`
-- Run `npm install` or `yarn add`
+- Run `npm install` or `yarn`
 - Run `npm start`
 
 it will install all the dependencies and start the app at the port 3000
